@@ -1,0 +1,17 @@
+<html>
+
+    <head>
+
+        <title>Hello BITLAB</title>
+
+    </head>
+
+    <body>
+
+        <h2>Welcome to First WEB Application</h2>
+
+        <p>Our first design!</p>
+
+    </body>
+
+</html>
